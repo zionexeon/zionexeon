@@ -3,11 +3,12 @@
   <br>
   <a href="https://github.com/zionexeon"><img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1733544571/70766138_qsttsa.png" alt="zionexeon" width="200"></a>
   <br>
-  Markdownify
+  zionexeon (Tresnanda A.C.B)
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">🌐 Full Stack Web Developer | Junior Flutter Developer
+Building dynamic websites & apps with a focus on clean, maintainable code. Excited about the future of web and mobile development. 💡.</h4>
 
 ## Hi there 👋
 
