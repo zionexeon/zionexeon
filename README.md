@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/zionexeon"><img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1733544571/70766138_qsttsa.png" alt="zionexeon" width="200"></a>
+  <a href="https://github.com/zionexeon"><img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1733544920/70766138-removebg-preview_touaii.png" alt="zionexeon" width="200"></a>
   <br>
   zionexeon (Tresnanda A.C.B)
   <br>
